@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid43139",
+  "B": "/home/dev/feedback/uid43139",
+  "sha": "1a440522cdf5a3520c4bff9294e505f6af804974",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "projectdiscovery",
+    "repo": "nuclei-templates",
+    "sha": "1a440522cdf5a3520c4bff9294e505f6af804974"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "nuclei-templates",
+    "cloneUrl": "https://github.com/Rrr119/nuclei-templates.git"
+  },
+  "at": "2026-11-26T23:53:53.024Z"
+}
